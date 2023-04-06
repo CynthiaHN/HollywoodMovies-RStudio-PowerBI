@@ -19,5 +19,5 @@ Title, genre, studio, profitability and ratings for movies released 2007-2012
 + Export Data
 
 ### Power BI
-+ Embed an R script 
++ Embed an R script to create a bar graph
 + Created a data visualisation 
